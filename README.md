@@ -3,4 +3,4 @@
 recuerda instalar modulos de npm 
 
 
-npm intall
+npm install
